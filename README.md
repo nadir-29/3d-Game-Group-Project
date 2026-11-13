@@ -25,6 +25,8 @@ Our current target for the game (not final):
 - Add a currency system
 - Add item drops
 - Add an inventory and looting system
+- Add enemy spawners
+- Add death + reset system
 
 ## General Goals
 

@@ -7,6 +7,7 @@ A third-person shooter set in a dark forest. Explore fight enemies, and loot ite
 - Jonathan Van
 - Nadir Albandar
 - Michelle Nguyen
+- Wilfred Vergara
 
 ## Game Overview
 
@@ -35,7 +36,7 @@ Our current target for the game (not final):
 | Jonathan Van | Character models |
 | Nadir Albandar | UI |
 | Michelle Nguyen | Map models |
-
+| Wilfred Vergara | Gameplay Systems/Integration |
 ## Still Need to Implement
 
 - Controls (grenades, reload, inventory, etc.)

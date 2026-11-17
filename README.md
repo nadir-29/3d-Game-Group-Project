@@ -20,14 +20,9 @@ A third-person shooter set in a dark forest. Explore fight enemies, and loot ite
 ## Current Target
 
 Our current target for the game (not final):
-
-- Find 3D assets (character models, map models, animations)
-- Add shooting mechanics
-- Add a currency system
-- Add item drops
-- Add an inventory and looting system
-- Add enemy spawners
-- Add death + reset system
+- 3rd person extraction shooter with 1-3 complete maps (depending on the scope of each map)
+- Complete gameplay (start and finish points) with no story.
+- Finished UI (health bars, inventory, etc.) + menu screens
 
 ## General Goals
 
@@ -37,8 +32,15 @@ Our current target for the game (not final):
 | Nadir Albandar | UI |
 | Michelle Nguyen | Map models |
 | Wilfred Vergara | Gameplay Systems/Integration |
-## Still Need to Implement
+## Still Need to Implement/in Progress
 
-- Controls (grenades, reload, inventory, etc.)
-- Enemy AI pathing
-- Inventory system
+- Controls (grenades, reload, inventory, etc.) *IP*
+- Enemies and enemy AI pathing
+- Inventory system *IP*
+- Find 3D assets (character models, map models, animations) *IP*
+- Add shooting mechanics *IP*
+- Add a currency system
+- Add item drops
+- Add enemy spawners
+- Add death + reset system
+- Add flashlight -> FOV is limited to flashlight range

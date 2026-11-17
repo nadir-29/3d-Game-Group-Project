@@ -32,13 +32,13 @@ Our current target for the game (not final):
 | Nadir Albandar | UI |
 | Michelle Nguyen | Map models |
 | Wilfred Vergara | Gameplay Systems/Integration |
-## Still Need to Implement/in Progress
+## Still Need to Implement/Work in Progress
 
-- Controls (grenades, reload, inventory, etc.) *IP*
+- Controls (grenades, reload, inventory, etc.) *WIP*
 - Enemies and enemy AI pathing
-- Inventory system *IP*
-- Find 3D assets (character models, map models, animations) *IP*
-- Add shooting mechanics *IP*
+- Inventory system *WIP*
+- Find 3D assets (character models, map models, animations) *WIP*
+- Add shooting mechanics *WIP*
 - Add a currency system
 - Add item drops
 - Add enemy spawners

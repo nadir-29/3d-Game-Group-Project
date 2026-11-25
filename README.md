@@ -44,3 +44,8 @@ Our current target for the game (not final):
 - Add enemy spawners
 - Add death + reset system
 - Add flashlight -> FOV is limited to flashlight range
+
+## Halfway Demo Video
+
+https://github.com/user-attachments/assets/22e14854-e551-4c0d-a409-f7a091f1fc1c
+
